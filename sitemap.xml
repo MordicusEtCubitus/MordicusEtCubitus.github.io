@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="http://localhost:3001/sitemap_style.xsl" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>http://localhost:3001</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3001/installation/intro</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3001/installation/installation-environnement-miniforge</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3001/installation/installation-environnement-pixi</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3001/installation/a01-pycharm</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3001/installation/a02-visual-studio-code</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3001/installation/a03-utiliser-la-ligne-de-commande-dans-un-terminal</loc>
+  </url>
+</urlset>
